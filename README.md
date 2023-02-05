@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**AiratFF-DE-DS/AiratFF-DE-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :star:  **Briefly about myself** :star:
 
-Here are some ideas to get you started:
+* :green_book: Education
+  - Ufa State Petroleum Technological University, Masters Degree - Drilling Engineering of Oil and Gas Wells 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :fire: Current Status
+  - :nerd_face: Expert in drilling engineering with 15 years of experience in the energy sector
+  - :beginner: Mixing the background expertise with a Data Science approach for DA & ML
+  
+  
+* :speech_balloon: Connect with me :speech_balloon:
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/ayrat-fakhrylgayanov-642b8a39/)
